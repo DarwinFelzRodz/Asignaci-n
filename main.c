@@ -2,12 +2,9 @@
 
 void main(void)
 {
-float PRE, NPR;
-printf("ingrese el precio del producto: " );
-scanf("ingrese el precio del producto: ");
-if (PRE > 1500)
-{
-    NPR = PRE * 1.11;
-    printf("\nNuevo precio: %7.2f" ,NPR);
-    }
+float PRO;
+printf("ingrese promedio del alumno");
+scanf("%f", &PRO);
+if (PRO >= 6)
+printf("\nAprobado");
 }
