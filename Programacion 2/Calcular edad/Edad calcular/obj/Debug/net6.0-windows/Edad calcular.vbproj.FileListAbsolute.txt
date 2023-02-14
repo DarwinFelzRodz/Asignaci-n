@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\bin\Debug\net6.0-windows\Edad calcular.exe
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\bin\Debug\net6.0-windows\Edad calcular.deps.json
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\bin\Debug\net6.0-windows\Edad calcular.runtimeconfig.json
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\bin\Debug\net6.0-windows\Edad calcular.dll
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\bin\Debug\net6.0-windows\Edad calcular.pdb
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\Edad calcular.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\Edad_calcular.Form1.resources
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\Edad calcular.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\Edad calcular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\Edad calcular.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\Edad calcular.AssemblyInfo.vb
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\Edad calcular.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\Edad calcular.dll
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\refint\Edad calcular.dll
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\Edad calcular.pdb
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\Edad calcular.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\fecha de nacimiento\Edad calcular\Edad calcular\obj\Debug\net6.0-windows\ref\Edad calcular.dll
