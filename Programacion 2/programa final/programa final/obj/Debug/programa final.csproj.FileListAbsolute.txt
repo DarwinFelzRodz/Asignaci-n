@@ -1,0 +1,22 @@
+C:\Users\hanse\source\repos\programa final\programa final\bin\Debug\programa final.exe.config
+C:\Users\hanse\source\repos\programa final\programa final\bin\Debug\programa final.exe
+C:\Users\hanse\source\repos\programa final\programa final\bin\Debug\programa final.pdb
+C:\Users\hanse\source\repos\programa final\programa final\obj\Debug\programa final.csproj.AssemblyReference.cache
+C:\Users\hanse\source\repos\programa final\programa final\obj\Debug\programa final.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanse\source\repos\programa final\programa final\obj\Debug\programa_final.Form1.resources
+C:\Users\hanse\source\repos\programa final\programa final\obj\Debug\programa_final.Properties.Resources.resources
+C:\Users\hanse\source\repos\programa final\programa final\obj\Debug\programa final.csproj.GenerateResource.cache
+C:\Users\hanse\source\repos\programa final\programa final\obj\Debug\programa final.csproj.CoreCompileInputs.cache
+C:\Users\hanse\source\repos\programa final\programa final\obj\Debug\programa final.exe
+C:\Users\hanse\source\repos\programa final\programa final\obj\Debug\programa final.pdb
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\bin\Debug\programa final.exe.config
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\bin\Debug\programa final.exe
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\bin\Debug\programa final.pdb
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\obj\Debug\programa final.csproj.AssemblyReference.cache
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\obj\Debug\programa final.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\obj\Debug\programa_final.Form1.resources
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\obj\Debug\programa_final.Properties.Resources.resources
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\obj\Debug\programa final.csproj.GenerateResource.cache
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\obj\Debug\programa final.csproj.CoreCompileInputs.cache
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\obj\Debug\programa final.exe
+C:\Users\gamep\Downloads\trabajos-main\programa final\programa final\obj\Debug\programa final.pdb

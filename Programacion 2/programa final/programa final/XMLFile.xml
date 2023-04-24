@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Empleados>
+	<Listado>
+		<persona nombre ="Pedro" apellido="Valdez"></persona>
+
+		<persona nombre ="Maria" apellido="Magdalena"></persona>
+
+		<persona nombre ="Carlos" apellido="Pichardo"></persona>
+
+		<persona nombre ="Marcos" apellido="Terrero"></persona>
+
+		<persona nombre ="Jessie" apellido="Terrero"></persona>
+
+		<persona nombre ="Tony" apellido="Valdez"></persona>
+
+		<persona nombre ="Samuel" apellido="De Luque"></persona>
+
+		<persona nombre ="Daniel" apellido="Grenn"></persona>
+
+		<persona nombre ="James" apellido="Black"></persona>
+
+
+	</Listado>
+</Empleados>

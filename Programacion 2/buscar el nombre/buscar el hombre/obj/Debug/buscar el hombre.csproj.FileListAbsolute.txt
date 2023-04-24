@@ -1,0 +1,23 @@
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.csproj.AssemblyReference.cache
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\obj\Debug\buscar_el_hombre.Form1.resources
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\obj\Debug\buscar_el_hombre.Properties.Resources.resources
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.csproj.GenerateResource.cache
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.csproj.CoreCompileInputs.cache
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\bin\Debug\buscar el hombre.exe.config
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\bin\Debug\buscar el hombre.exe
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\bin\Debug\buscar el hombre.pdb
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.exe
+C:\Users\hanse\source\repos\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.pdb
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\bin\Debug\buscar el hombre.exe.config
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\bin\Debug\buscar el hombre.exe
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\bin\Debug\buscar el hombre.pdb
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.csproj.AssemblyReference.cache
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\obj\Debug\buscar_el_hombre.Form1.resources
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\obj\Debug\buscar_el_hombre.Properties.Resources.resources
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.csproj.GenerateResource.cache
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.csproj.CoreCompileInputs.cache
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.exe
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\obj\Debug\buscar el hombre.pdb
+C:\Users\gamep\Downloads\trabajos-main\buscar el hombre\buscar el hombre\obj\Debug\buscar_el_nombre.Form1.resources

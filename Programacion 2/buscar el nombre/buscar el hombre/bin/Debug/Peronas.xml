@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personas>
+  <persona Nombre="Jose">
+    <Apellido>Sanchez</Apellido>
+  </persona>
+  <persona Nombre="Mario">
+    <Apellido>Sanchez</Apellido>
+  </persona>
+  <persona Nombre="Jose">
+    <Apellido>Santos</Apellido>
+  </persona>
+  <persona Nombre="Maria">
+    <Apellido>Sanchez</Apellido>
+  </persona>
+  <persona Nombre="Pedro">
+    <Apellido>perez</Apellido>
+  </persona>
+  <persona Nombre="Maria">
+    <Apellido>Santos</Apellido>
+  </persona>
+  <persona Nombre="Manuel">
+    <Apellido>perez</Apellido>
+  </persona>
+  <persona Nombre="Pedro">
+    <Apellido>Santos</Apellido>
+  </persona>
+</personas>

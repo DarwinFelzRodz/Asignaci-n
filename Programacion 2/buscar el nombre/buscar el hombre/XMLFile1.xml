@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<Empleados>
+	<Nombres>
+	<nombre Persona ="Santos">Pedro </nombre>
+	<nombre Persona ="Perez">Mario </nombre>
+	<nombre Persona ="Sanchez">Maria </nombre>
+	<nombre Persona ="Pichardo">Samuel </nombre>
+	<nombre Persona ="Pina">Pedro Daniel </nombre>
+	<nombre Persona ="Pena">Pedro </nombre>
+	<nombre Persona ="Penosa">Mario </nombre>
+	<nombre Persona ="Bastardo">Maria </nombre>
+	<nombre Persona ="Barcelo">Samuel </nombre>
+	<nombre Persona ="Batlle">Pedro Daniel </nombre>
+	<nombre Persona ="perdono"> Daniel </nombre>
+	</Nombres>
+</Empleados>
